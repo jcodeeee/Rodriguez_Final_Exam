@@ -377,6 +377,18 @@ nav .navlinks.open {
 .label1 {
   color: white;
 }
+footer{
+  background-color: black;
+  margin-top: 20px;
+  color: white;
+  width: 1280px;
+  height: 50px;
+  border-radius: 0px 0px 15px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
 
 @media (max-width: 930px) {
   .wrapper {
@@ -439,6 +451,18 @@ nav .navlinks.open {
     width: 90%;
     margin-left: 15px;
     text-align: center;
+  }
+  footer{
+    background-color: black;
+    margin-top: 53px;
+    color: white;
+    width: 410px;
+    height: 30px;
+    border-radius: 0px 0px 15px 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
   }
 }
 
